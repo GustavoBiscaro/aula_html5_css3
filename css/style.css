@@ -1,0 +1,33 @@
+body {
+    background: rgb(165, 114, 114); /*cor de fundo*/
+    margin-left: 100px; /*margem na esquerda*/
+    margin-right: 200px; /*margem na direita*/
+}
+
+
+header {
+    margin-top: 70px; /*margem acima*/
+}
+
+h1 {
+    color: red; /*cor do título*/
+    font-family: fantasy; /*família de fontes*/
+}
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px; /*tamanho do texto*/
+}
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+.logo {
+    width: 30px;
+}
